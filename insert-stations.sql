@@ -3,7 +3,7 @@ USE metro_cdmx;
 -- Inserta las estaciones del metro
 INSERT INTO `stations` (name) VALUES
 ("Lázaro Cárdens"), -- Lázaro Cárdenas
-("Ferería"), -- Ferrería 
+("Ferería"), -- Ferrería
 ("Pnttlán"), -- Pantitlán
 ("Tauga"), -- Tacuba
 ("MartínCrrera"), -- Martín Carrera
